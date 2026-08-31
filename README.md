@@ -1,6 +1,6 @@
 # streak
 Maintain your github streak
 
-Update number 3
+Update number 4
 
-This is commit 3 to maintain the streak.
+This is commit 4 to maintain the streak.
